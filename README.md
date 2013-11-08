@@ -1,6 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# Zee Agency JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+*A mostly reasonable approach to JavaScript (forked from Airbnb) *
 
 
 ## <a name='TOC'>Table of Contents</a>
